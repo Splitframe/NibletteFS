@@ -77,3 +77,4 @@ outTmp/
 /kotlin-native/dist
 kotlin-ide/
 /.idea/dataSources.xml
+/.gradle/
